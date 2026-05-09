@@ -316,11 +316,15 @@ Services disponibles :
 
 ## ✨ Auteurs
 
-* **Hafssa CHKOUKED
+Projet réalisé par:
+Hafssa CHKOUKED
 
-** — Développement full-stack
-* Projet réalisé dans le cadre du cours :
-  **Développement web full-stack avec JavaScript**
+Encadré par :
+Pr.lachgar
+
+ dans le cadre du cours :
+  Développement web full-stack avec JavaScript
+  
 ---
 
 
